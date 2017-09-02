@@ -1,7 +1,5 @@
 The Game of Pig
 
-This project describes The Game of Pig:
-
 General Rules:
 
 This version of The Game of Pig accepts between 2-4 players. 
