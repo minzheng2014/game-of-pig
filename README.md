@@ -1,4 +1,4 @@
-#The Game of Pig
+The Game of Pig
 
 This project describes The Game of Pig:
 
@@ -18,6 +18,6 @@ How to play:
 6. If a player rolls a 1, their turn is over, and the next players turn is active.
 7. Players turns are sequential.
 
-#Other Information:
+Other Information:
 
 This was a exercise for my personal CS121 class to practice Java and object oriented approaches to coding.
