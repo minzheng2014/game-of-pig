@@ -18,6 +18,6 @@ How to play:
 
 # Other Information
 
-This was a exercise to practice Java and object oriented approaches to coding.
+This was a exercise to practice Java and object oriented approaches to coding. This is a text-based game written within the command line of Eclipse.
 
 Created in IDE: Eclipse Luna
