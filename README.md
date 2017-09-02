@@ -19,3 +19,5 @@ How to play:
 # Other Information
 
 This was a exercise to practice Java and object oriented approaches to coding.
+
+Created in IDE: Eclipse Luna
